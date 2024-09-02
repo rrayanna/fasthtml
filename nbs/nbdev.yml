@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fasthtml"
+  site-url: "https://rrayanna.github.io/fasthtml"
+  description: "Fast HTML"
+  repo-branch: main
+  repo-url: "https://github.com/rrayanna/fasthtml"
